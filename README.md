@@ -12,4 +12,4 @@ For navigation is used [telescope.nvim](https://github.com/nvim-telescope/telesc
 - search through all files `;r`
 - search buffer `\\\\`
 - help tags `;t`
-- resume to previous uses navigation `;;`
+- open previous used navigation `;;`
