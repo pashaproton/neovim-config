@@ -7,8 +7,7 @@ if (not status2) then return end
 mason.setup {}
 lspconfig.setup {
   ensure_installed = {
-    'tailwindcss',
-    'markdownlint'
+    'tailwindcss'
   }
 }
 
